@@ -2,6 +2,7 @@ table {
     background: #e1e4e1;
 }
     caption {
+        padding: 10px;
         width: 400px;
         background: #e1e4e1;
         color: #ff5517;
