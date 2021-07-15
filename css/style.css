@@ -1,0 +1,28 @@
+table {
+    background: white;
+    border: none;
+    border-spacing: 0 25px;
+}
+
+tr:first-child {
+    background: bisque;
+}
+
+td{
+    border: 1px solid black
+}
+
+td:first-child {
+    border-left: 1px solid black;
+    border-right: none;
+}
+
+th {
+    text-align: center;
+    border-right: 2px solid black;
+    color: #873428;
+}
+
+th:first-child {
+    text-align: left;
+}

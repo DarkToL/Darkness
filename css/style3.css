@@ -1,0 +1,16 @@
+table {
+    background: #e1e4e1;
+}
+    caption {
+        width: 400px;
+        background: #e1e4e1;
+        color: #ff5517;
+    }
+    td {
+        color: #947f6c;
+    }
+    button {
+        background: #a3cee9;
+        color: white;
+        border: none;
+    }
