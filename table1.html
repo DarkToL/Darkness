@@ -6,21 +6,27 @@
 
     <style>
         table {
-            background: #e1e4e1;
+            background: white;
+            border-left: 2px solid #ff5517;
+            border-right: 2px solid #ff5517;
+            border-bottom: 2px solid #ff5517;
         }
+        #center { text-align: center; }
+
         caption {
-            padding: 10px;
+            border-radius: 20px 20px 0 0;
+            padding: 15px;
             width: 400px;
             background: #ff5517;
             color: aliceblue;
         }
-        td {
+        th {
             background: white;
         }
         button {
             background: #ff5517;
             color: white;
-            border: #ff0000;
+            border: none;
         }
     </style>
 </head>
@@ -31,30 +37,29 @@
         </caption>
 
         <tr>
-            <th>Plan</th>
+            <th align ="left">Plan</th>
             <th>Price</th>
-            <td></td>
+            <th></th>
         </tr>
         <tr>
             <td>Basic</td>
-            <td>10$</td>
-            <td></td>
+            <td><div class="center">10$</div></td>
+            <td><div class="center"><button>Select</button></div></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Professional</td>
+            <td><div class="center">20$</div></td>
+            <td><div class="center"><button>Select</button></div></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Premium</td>
+            <td><div class="center">30$</div></td>
+            <td><div class="center"><button>Select</button></div></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
+            <td>Platinum</td>
+            <td><div class="center">60$</div></td>
+            <td><div class="center"><button>Select</button></div></td>
     </table>
 </body>
 </html>
