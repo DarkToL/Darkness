@@ -11,7 +11,7 @@
             border-right: 2px solid #ff5517;
             border-bottom: 2px solid #ff5517;
         }
-        #center { text-align: center; }
+        .center { text-align: center; }
 
         caption {
             border-radius: 20px 20px 0 0;
@@ -28,6 +28,12 @@
             color: white;
             border: none;
         }
+        .th-left {
+            text-align: left;
+        }
+        tr:nth-child(2n) {
+            background: darkgray;
+        }
     </style>
 </head>
 <body>
@@ -37,7 +43,7 @@
         </caption>
 
         <tr>
-            <th align ="left">Plan</th>
+            <th style="background: white" class="th-left">Plan</th>
             <th>Price</th>
             <th></th>
         </tr>
