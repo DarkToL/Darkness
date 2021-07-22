@@ -6,9 +6,11 @@
 
     <style>
         table {
-
             background: white;
-            border-spacing: 0 1px ;
+            border-spacing: 0 1px;
+            /*Установил для всех выравнивание по центру*/
+            text-align: center;
+            /**/
         }
         td:nth-child(2n), th:nth-child(2n){
             background: darkgoldenrod;
@@ -22,8 +24,16 @@
         td, th {
             padding: 10px;
         }
+        /*Добавил выравнивание по левому краю*/
+        th {
+            text-align: left;
+        }
+        /**/
         tr:first-child th{
             border-radius: 10px 10px 0 0;
+            /*Перезаписал для всех th первой строки выравнивание по центру*/
+            text-align: center;
+            /**/
         }
         a:link { text-decoration: none; }
         a:visited { text-decoration: none; }
