@@ -5,12 +5,10 @@
     <title>3 столбца текста</title>
     <style>
       body {
-          margin: 30px 45px 30px 45px;
           background: black;
       }
       div{
           background: black;
-          margin: 20px;
           color: white;
       }
       #main {
@@ -21,13 +19,15 @@
           width: 30%;
       }
       #two {
-          margin: 0 40% 0 35%;
-          padding: 20px;
+          float: right;
           width: 30%;
       }
       #tree {
+          float: left;
           width: 30%;
-          float: right;
+      }
+      .clear {
+          clear: both;
       }
     </style>
 </head>
@@ -36,6 +36,7 @@
       <div id="one">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci architecto assumenda hic libero non numquam repellat soluta vero vitae, voluptas! Adipisci autem blanditiis et illum iure laboriosam minima odit praesentium? Aspernatur assumenda consequuntur cum eaque facere itaque, labore mollitia pariatur, quibusdam rerum suscipit tenetur veritatis voluptatum! Asperiores debitis delectus dolorem, ducimus ex iste labore nulla officiis placeat qui! Adipisci asperiores, beatae commodi consectetur ducimus eius expedita fuga id magnam maxime neque non odio perspiciatis quam quisquam quos reiciendis saepe tenetur!</div>
       <div id="tree">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, perspiciatis soluta! Asperiores delectus dolores exercitationem minima vero vitae! Accusamus asperiores consectetur consequuntur delectus dolorem est fuga ipsa ipsam iure labore laborum laudantium magni nam natus necessitatibus nobis non omnis provident quaerat quibusdam sit tenetur ut, voluptatibus? Aspernatur, dignissimos doloremque est facere hic laborum nemo, numquam perferendis praesentium, provident rerum sint! Aperiam dolor, dolore error esse est fuga in labore laudantium, nesciunt nihil omnis praesentium quam quas quia repellendus reprehenderit rerum!</div>
       <div id="two">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab adipisci amet aspernatur beatae consectetur corporis culpa delectus deleniti deserunt dicta dolore dolorem eaque enim ex fugiat harum inventore ipsum iste itaque laboriosam magnam magni natus necessitatibus nihil non obcaecati omnis perspiciatis porro quia quis, rerum, sint suscipit ullam unde voluptate voluptates voluptatum! Aliquam architecto at autem commodi debitis dolor doloremque dolores eos hic illo impedit incidunt ipsa ipsam iste maiores modi nam nobis omnis optio, quaerat quia repudiandae sint. Quisquam.</div>
+        <div class="clear"></div>
     </div>
 </body>
 </html>
