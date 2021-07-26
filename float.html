@@ -5,32 +5,47 @@
     <title>Использование float</title>
   <style>
     body {
-      margin: 5px
-      }
+        margin: 5px
+    }
     div{
-      margin: 10px;
-      padding: 20px;
-      }
+        margin: 10px;
+        padding: 20px;
+    }
     #one {
       /*height: 200px;*/
-      float: left;
-      width: 20%;
-      background: darkkhaki;
-      }
+        float: left;
+        width: 20%;
+        background: darkkhaki;
+    }
     #two {
-      background: darksalmon;
-      /*height: 200px;*/
+        background: darksalmon;
+        /*float: right;*/
+        /*height: 200px;*/
       }
     #tree {
-      background: indianred;
-      color: white;
-      }
+        background: indianred;
+        color: white;
+        clear: both;
+    }
+    img {
+        /*float: left;*/
+        width: 10%;
+    }
   </style>
 </head>
 <body>
 <div id="main">
   <div id="one"><h1>Меню</h1></div>
-  <div id="two"><img ></div>
+  <div id="two">
+      <div style="background: white">
+          <img src="http://img-fotki.yandex.ru/get/5822/1771339.145/0_8c254_9a29fea_L.jpg">
+          <p>Cофийский собор</p>
+      </div>
+      <div style="background: white">
+          <img src="https://www.retroua.com/wp-content/uploads/2012/11/413%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%BB-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D1%81%20%D1%84%D0%BE%D1%82%D0%BE%20%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B8%D0%B5%D0%B2%D0%B0%201900%20%D0%B3%D0%BE%D0%B4-1024x703.jpg">
+          <p>Польский костёл</p>
+      </div>
+  </div>
   <div id="tree">Подвал</div>
 </div>
 </body>
