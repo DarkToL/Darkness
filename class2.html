@@ -5,33 +5,113 @@
     <title>Квадраты</title>
     <style>
       .big {
-        position: relative;
-        width: 240px;
-        height: 200px;
-        left: 30%;
-        top: 30%;
-        border: 1px solid black;
-        background: #97d49c;
+          position: relative;
+          width: 240px;
+          height: 210px;
+          left: 30%;
+          top: 50px;
+          border: 1px solid black;
+          background: #97d49c;
+          /*z-index: 1;*/
       }
       .small {
-        position: absolute;
-        width: 30px;
-        height: 30px;
-        background: #1c966d;
+          position: absolute;
+          width: 30px;
+          height: 30px;
+          background: #1c966d;
+          /*z-index: 2;*/
+
+      }
+      .little {
+          position: absolute;
+          width: 6px;
+          height: 6px;
+          background: red;
+          top: -3px;
+          left: -3px;
+          z-index: 3;
+      }
+      .one {
+          left: 0;
+          top: 0;
+      }
+      .two {
+          left: 50%;
+          top: 0;
+          background: #97d49c;
+      }
+      .-two {
+          left: -15px;
+      }
+      .tree {
+          right: 0;
+          top: 0;
+      }
+      .four {
+          left: 0;
+          bottom: 50%;
+          background: #97d49c;
+      }
+      .-four {
+          bottom: -15px;
+      }
+      .five {
+          left: 50%;
+          bottom: 50%;
+          background: #97d49c;
+      }
+      .-five {
+          left: -15px;
+          bottom: -15px;
+      }
+      .six {
+          right: 0;
+          bottom: 50%;
+          background: #97d49c;
+      }
+      .-six {
+          bottom: -15px;
+      }
+      .seven {
+          left: 0;
+          bottom: 0;
+      }
+      .eight {
+          left: 50%;
+          bottom: 0;
+          background: #97d49c;
+      }
+      .-eight {
+          left: -15px;
+      }
+      .nine {
+          right: 0;
+          bottom: 0;
       }
     </style>
 </head>
 <body>
     <div class="big">
-      <div class="small"></div>
-      <div class="small"></div>
-      <div class="small"></div>
-      <div class="small"></div>
-      <div class="small"></div>
-      <div class="small"></div>
-      <div class="small"></div>
-      <div class="small"></div>
-      <div class="small"></div>
+        <div class="little"></div>
+        <div class="small one" ></div>
+        <div class="small two">
+            <div class="small -two"></div>
+        </div>
+        <div class="small tree"></div>
+        <div class="small four">
+            <div class="small -four"></div>
+        </div>
+        <div class="small five">
+            <div class="small -five"></div>
+        </div>
+        <div class="small six">
+            <div class="small -six"></div>
+        </div>
+        <div class="small seven"></div>
+        <div class="small eight">
+            <div class="small -eight"></div>
+        </div>
+        <div class="small nine"></div>
     </div>
 
 </body>
