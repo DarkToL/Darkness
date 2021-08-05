@@ -4,11 +4,15 @@
     <meta charset="UTF-8">
     <title>Таблица №1</title>
     <style>
-        tr,td,th {
-            border: 2px solid black;
+        table {
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+        td,th {
+            border: 1px solid black;
         }
 
-        #yellow > td:hover {
+        tr:hover:not(tr:first-child) {
             background: #ffcc0a;
         }
     </style>
@@ -30,7 +34,7 @@
           <td>4</td>
           <td>2</td>
         </tr>
-        <tr id="yellow">
+        <tr>
           <td>Крокодил Гена</td>
           <td>2</td>
           <td>7</td>
