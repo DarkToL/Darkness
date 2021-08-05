@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Изученный материал</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .wrapper {
+            width: 600px;
+            border: 1px solid black;
+            margin: 60px auto 20px;
+
+        }
+
+        .content {
+            border: 1px solid black;
+            padding: 15px;
+        }
+
+        .item:not(.block:last-child) {
+            /*border: 1px solid black;*/
+            margin-bottom: 20px;
+        }
+
+        /*.sidebar {*/
+        /*    width: 150px;*/
+        /*    border: 1px solid black;*/
+        /*}*/
+
+        .clearfix > * {
+            float: left;
+            /*border: 1px solid black;*/
+        }
+
+        .clearfix:after {
+            display: block;
+            content: '';
+            /*"шла саша по "/шоссе"/ и сосала сушку"*/
+            clear: both;
+        }
+
+        .header {
+            width: 100%;
+            background: rosybrown;
+            position: fixed;
+            left: 0;
+            top: 0;
+        }
+        .menu > li {
+            list-style-type: none;
+            margin-right: 20px;
+            color: white;
+            background: #d9abab;
+            padding: 10px 20px;
+        }
+        li > a:link, li > a:visited {
+            text-decoration: none;
+            color: whitesmoke;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .item {
+            text-align: justify;
+        }
+        li > a:hover {
+            background: #987070;
+        }
+        li > a:active {
+            background: #845b5b;
+            color: white;
+        }
+        img {
+            width: 150px;
+            float: left;
+            margin-right: 15px;
+        }
+        .bottom {
+            width: 100%;
+            padding: 20px;
+            background: #c51ec7;
+            color: white;
+            bottom: 0;
+            left: 0;
+            /*font-size: 150%;*/
+            text-align: center;
+
+        }
+
+        /*ctrl+alt+l = выравнивание*/
+        /*shift+end = выделить всю строку*/
+    </style>
+</head>
+<body>
+<div class="header">
+    <ul class="menu clearfix">
+        <li><a href="#item_1">Главная</a></li>
+        <li><a href="#item_2">Информация о нас</a></li>
+        <li><a href="#item_3">Галерея</a></li>
+        <li><a href="">Обратная связь</a></li>
+    </ul>
+</div>
+<div class="wrapper">
+<!--    <div class="wpapper">-->
+<!--        <div class="sidebar">-->
+<!--            <p><h1>Заголовок №1</h1></p>-->
+<!--            <p><h1>Заголовок №2</h1></p>-->
+<!--            <p><h1>Заголовок №3</h1></p>-->
+<!--            <p><h1>Заголовок №4</h1></p>-->
+<!--        </div>-->
+<!--    </div>-->
+    <div class="content clearfix">
+        <div class="item" id="item_1">
+            <h1> Заголовок</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolor est harum maxime omnis quibusdam vero! Aperiam aut delectus distinctio eos expedita ipsa iure laborum magni maiores mollitia necessitatibus nesciunt non obcaecati omnis optio quae, quaerat quam quis quod rem reprehenderit repudiandae rerum sint tenetur totam ut voluptas! Autem, molestiae, voluptate? Aliquid aut blanditiis consectetur, consequuntur, culpa cumque dolor dolores eaque fugit ipsum iste, itaque modi molestiae nesciunt officiis quas quasi repellendus tempora tenetur voluptate. Nulla perspiciatis quas ut vel!</p>
+        </div>
+        <div class="item">
+            <h1> Заголовок</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolor est harum maxime omnis quibusdam vero! Aperiam aut delectus distinctio eos expedita ipsa iure laborum magni maiores mollitia necessitatibus nesciunt non obcaecati omnis optio quae, quaerat quam quis quod rem reprehenderit repudiandae rerum sint tenetur totam ut voluptas! Autem, molestiae, voluptate? Aliquid aut blanditiis consectetur, consequuntur, culpa cumque dolor dolores eaque fugit ipsum iste, itaque modi molestiae nesciunt officiis quas quasi repellendus tempora tenetur voluptate. Nulla perspiciatis quas ut vel!</p>
+        </div>
+        <div class="item" id="item_3">
+            <h1> Заголовок</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolor est harum maxime omnis quibusdam vero! Aperiam aut delectus distinctio eos expedita ipsa iure laborum magni maiores mollitia necessitatibus nesciunt non obcaecati omnis optio quae, quaerat quam quis quod rem reprehenderit repudiandae rerum sint tenetur totam ut voluptas! Autem, molestiae, voluptate? Aliquid aut blanditiis consectetur, consequuntur, culpa cumque dolor dolores eaque fugit ipsum iste, itaque modi molestiae nesciunt officiis quas quasi repellendus tempora tenetur voluptate. Nulla perspiciatis quas ut vel!</p>
+        </div>
+        <div class="item">
+            <h1> Заголовок</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolor est harum maxime omnis quibusdam vero! Aperiam aut delectus distinctio eos expedita ipsa iure laborum magni maiores mollitia necessitatibus nesciunt non obcaecati omnis optio quae, quaerat quam quis quod rem reprehenderit repudiandae rerum sint tenetur totam ut voluptas! Autem, molestiae, voluptate? Aliquid aut blanditiis consectetur, consequuntur, culpa cumque dolor dolores eaque fugit ipsum iste, itaque modi molestiae nesciunt officiis quas quasi repellendus tempora tenetur voluptate. Nulla perspiciatis quas ut vel!</p>
+        </div>
+        <div class="item">
+            <h1> Заголовок</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolor est harum maxime omnis quibusdam vero! Aperiam aut delectus distinctio eos expedita ipsa iure laborum magni maiores mollitia necessitatibus nesciunt non obcaecati omnis optio quae, quaerat quam quis quod rem reprehenderit repudiandae rerum sint tenetur totam ut voluptas! Autem, molestiae, voluptate? Aliquid aut blanditiis consectetur, consequuntur, culpa cumque dolor dolores eaque fugit ipsum iste, itaque modi molestiae nesciunt officiis quas quasi repellendus tempora tenetur voluptate. Nulla perspiciatis quas ut vel!</p>
+        </div>
+        <div class="item" id="item_2">
+            <h1> Информация о нас</h1>
+            <img src="https://www.stephenripple.com/images/portfolio/github_logo.jpg" alt="">
+        </div>
+    </div>
+</div>
+<div class="bottom">Copyright &#169;</div>
+</body>
+</html>
