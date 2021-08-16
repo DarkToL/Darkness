@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Форма Checkout</title>
+    <style>
+      body {
+          background: lightblue;
+      }
+      input {
+          color: darkgray;
+          margin: 10px;
+          padding: 1px 1px 1px 5px;
+      }
+      .button {
+          color: white;
+          background: #1b73d4;
+          width: 270px;
+      }
+      .left {
+          float: left;
+      }
+      fieldset {
+          width: 300px;
+          background: #c6f1ff;
+      }
+      .small {
+          width: 50px;
+      }
+      .smaller {
+          width: 100px;
+      }
+    </style>
+</head>
+<body>
+    <form action="action_form.php" method="post">
+      <fieldset>
+          <p>Checkout</p>
+
+          <input class="left smaller" type="text" value="Your name">
+          <input class="left small" type="text" value="MM">
+          <input class="left small" type="text" value="YY">
+            <br>
+            <br>
+          <input class="left" type="text" value="4111 1111 1111 1111">
+          <input class="left small" type="text" value="CVC">
+            <br>
+          <input class="button" type="submit" value="Purchase">
+      </fieldset>
+    </form>
+</body>
+</html>
