@@ -4,57 +4,109 @@
     <meta charset="UTF-8">
     <title>Макет</title>
     <style>
+        @import url("http://fonts.googleapis.com/css?family=Montserrat:400,700");
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: Montserrat, serif;
+        }
         .header {
-            background-size: 100%;
+            width: 100%;
             background: url(images/back.jpg) no-repeat;
-            height: 800px;
+            background-size: 100%;
         }
         #Ins {
             color: #077a84;
+            border: 2px solid blue;
             font-weight: bold;
-            padding: 15px 0 0 35px;
+            padding: 10px 0 5px 35px;
         }
         .white {
             color: white;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
         }
         #name {
             font-size: 300%;
         }
         .green {
             color: #077a84;
+            text-decoration: none;
+            float: right;
         }
-        li {
+        ul {
+            display: flex;
+            justify-content: right;
             list-style-type: none;
         }
-        a:visited {
-
+        li {
+        }
+        a {
+             padding: 15px;
+            line-height: 40px;
+            text-decoration: none;
+        }
+        a:hover {
+            border-bottom: 3px solid #077a84;
         }
         .top {
+            display: flex;
             justify-content: space-between;
+            position:  absolute;
+            top: 0;
+            width: 100%; /*При позиции абсолютной нужно задавать 100%, чтобы размер шёл на всю стр*/
         }
-
+        .text {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 600px;
+            position: relative;
+        }
+        .portfolio {
+            border: 2px solid red;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .img {
+            border: 2px solid blue;
+            display: flex;
+            justify-content: space-between;
+            width: ;
+        }
+        img {
+            width: 30%;
+            padding: 5px;
+        }
 
     </style>
 </head>
 <body>
 <div class="header">
     <div class="top">
-    <div id="Ins">INSTANT</div>
-    <ul>
-        <li><a class="green" href="">Home</a></li>
-        <li class="green"><a href="">About</a></li>
-        <li class="green"><a href="">Works</a></li>
-    </ul>
+        <div id="Ins">INSTANT</div>
+        <ul>
+            <li><a class="green" href="">Home</a></li>
+            <li><a class="green" href="">About</a></li>
+            <li><a class="green" href="">Works</a></li>
+        </ul>
     </div>
-    <div class="white"><p>Hello PEOPLE, My NAME IS</p></div>
-    <div class="white" id="name"><h3>PAUL SILVA</h3></div>
-    <div class="white"><p>WEB DESINGER, DEVELOPER & GAME ADDICT</p></div>
-    <div></div>
-    <div></div>
-    <div></div>
+    <div class="text">
+        <div class="white"><p>Hello PEOPLE, My NAME IS</p></div>
+        <div class="white" id="name"><h1>PAUL SILVA</h1></div>
+        <div class="white"><p>WEB DESINGER, DEVELOPER & GAME ADDICT</p></div>
+    </div>
+</div>
+<div class="portfolio">
+    <div><h2>My Portfolio</h2></div>
+</div>
+<div class="img">
+    <img src="images/folio01.png" alt="">
+    <img src="images/folio02.png" alt="">
+    <img src="images/folio03.png" alt="">
+    <img src="images/folio04.png" alt="">
+    <img src="images/folio05.png" alt="">
+    <img src="images/folio06.png" alt="">
 </div>
 </body>
 </html>
