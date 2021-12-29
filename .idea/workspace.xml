@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4198e19c-c04e-46cc-a5e8-fbca4926c7c6" name="Default Changelist" comment="Домашка на 16.08">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Darkness.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adv-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adv-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adv-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plan_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plan_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/purple.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" notifyAboutMissingVendor="false" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="cursov" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1v2EWa85oWWQ5O0HlxPHdFxDn11" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Git.Branch.Popup.ShowAllLocals" value="false" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4198e19c-c04e-46cc-a5e8-fbca4926c7c6" name="Default Changelist" comment="" />
+      <created>1625751815896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625751815896</updated>
+      <workItem from="1625751817713" duration="713000" />
+      <workItem from="1626060384538" duration="469000" />
+      <workItem from="1626060873413" duration="498000" />
+      <workItem from="1626076120111" duration="2673000" />
+      <workItem from="1626093332258" duration="639000" />
+      <workItem from="1626093988909" duration="93000" />
+      <workItem from="1626094128163" duration="827000" />
+      <workItem from="1626354869843" duration="4033000" />
+      <workItem from="1626664073040" duration="332000" />
+      <workItem from="1626664449566" duration="2690000" />
+      <workItem from="1626681991242" duration="1978000" />
+      <workItem from="1626697412133" duration="4332000" />
+      <workItem from="1626715036028" duration="7455000" />
+      <workItem from="1626724722736" duration="1611000" />
+      <workItem from="1626956947384" duration="1148000" />
+      <workItem from="1627270563741" duration="1365000" />
+      <workItem from="1627296332045" duration="8802000" />
+      <workItem from="1627526308224" duration="4474000" />
+      <workItem from="1627907156714" duration="5816000" />
+      <workItem from="1628132684879" duration="1417000" />
+      <workItem from="1628134755728" duration="1213000" />
+      <workItem from="1628168393146" duration="1784000" />
+      <workItem from="1628170201146" duration="689000" />
+      <workItem from="1628536591949" duration="3000" />
+      <workItem from="1629093380829" duration="1698000" />
+      <workItem from="1629096486113" duration="846000" />
+      <workItem from="1629098751242" duration="1905000" />
+      <workItem from="1629100710220" duration="1552000" />
+      <workItem from="1633892074048" duration="244000" />
+      <workItem from="1636388117662" duration="331000" />
+      <workItem from="1636388462348" duration="1728000" />
+      <workItem from="1640268443497" duration="90000" />
+      <workItem from="1640813051568" duration="283000" />
+      <workItem from="1640813388073" duration="1065000" />
+    </task>
+    <task id="LOCAL-00001" summary="Домашка на 12.07">
+      <created>1626061307174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626061307174</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Домашка на 12.07">
+      <created>1626061351924</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626061351924</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Домашка на 12.07">
+      <created>1626077076552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626077076553</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Домашка на 12.07">
+      <created>1626077291267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626077291267</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Домашка на 12.07">
+      <created>1626077702583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626077702583</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Домашка на 12.07">
+      <created>1626077908206</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626077908206</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Домашка на 12.07">
+      <created>1626078524547</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626078524547</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Домашка на 12.07">
+      <created>1626094560855</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626094560856</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Домашка на 15.07">
+      <created>1626358598850</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1626358598850</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Домашка на 19.07">
+      <created>1626664630981</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626664630981</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Домашка на 19.07">
+      <created>1626664646988</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626664646988</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Домашка на 19.07">
+      <created>1626665512361</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626665512361</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Домашка на 19.07">
+      <created>1626667673662</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626667673662</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Домашка на 19.07">
+      <created>1626667752722</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1626667752722</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Домашка на 19.07">
+      <created>1626703649661</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1626703649661</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Домашка на 19.07">
+      <created>1626704532370</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1626704532370</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Домашка на 19.07">
+      <created>1626717006612</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1626717006612</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Домашка на 19.07">
+      <created>1626717039432</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1626717039432</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Домашка на 19.07">
+      <created>1626722717359</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1626722717359</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Домашка на 19.07">
+      <created>1626726053817</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1626726053817</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Домашка на 19.07">
+      <created>1626726068706</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1626726068706</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Домашка на 19.07">
+      <created>1626726113054</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1626726113054</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Домашка на 19.07">
+      <created>1626726227560</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1626726227560</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Домашка на 19.07">
+      <created>1626957398260</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1626957398261</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Домашка на 19.07">
+      <created>1626957748908</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1626957748908</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Домашка на 19.07">
+      <created>1626958079711</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1626958079711</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Домашка на 26.07">
+      <created>1627298483187</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1627298483187</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Домашка на 26.07">
+      <created>1627305919485</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1627305919485</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Домашка на 26.07">
+      <created>1627306258226</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1627306258226</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Домашка на 26.07">
+      <created>1627307147219</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1627307147219</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Домашка на 26.07">
+      <created>1627307157286</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1627307157286</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Домашка на 26.07">
+      <created>1627308185503</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1627308185503</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Домашка на 29.07">
+      <created>1627530258584</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1627530258584</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Домашка на 29.07">
+      <created>1627530777489</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1627530777489</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Домашка на 29.07">
+      <created>1627913151911</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1627913151911</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Домашка на 02.08">
+      <created>1627913171788</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1627913171788</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Домашка на 02.08">
+      <created>1628133408462</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1628133408462</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Домашка на 05.08">
+      <created>1628135955757</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1628135955757</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Домашка на 05.08">
+      <created>1628168421604</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1628168421604</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Домашка на 05.08">
+      <created>1628170700384</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1628170700384</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Домашка на 05.08">
+      <created>1628170719183</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1628170719183</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Домашка на 05.08">
+      <created>1628170784338</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1628170784338</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Домашка на 16.08">
+      <created>1629102157762</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1629102157762</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Домашка на 16.08">
+      <created>1629102186682</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1629102186682</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Домашка на 16.08">
+      <created>1629102252317</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1629102252317</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="lesson_5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="RELOAD_CONTEXT" value="false" />
+    <MESSAGE value="Домашка на 8.07" />
+    <MESSAGE value="Домашка на 12.07" />
+    <MESSAGE value="Домашка на 15.07" />
+    <MESSAGE value="Домашка на 19.07" />
+    <MESSAGE value="Домашка на 26.07" />
+    <MESSAGE value="Домашка на 29.07" />
+    <MESSAGE value="Домашка на 02.08" />
+    <MESSAGE value="Домашка на 05.08" />
+    <MESSAGE value="Домашка на 16.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашка на 16.08" />
+  </component>
+</project>
