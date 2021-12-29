@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Lobster';
+    src: url("Lobster/Lobster.ttf");
+
+    font-family: 'Bold';
+    src: url("Oswald/Oswald-Bold.ttf");
+
+    font-family: 'Light';
+    src: url("Oswald/Oswald-Light.ttf");
+
+    font-family: Regular;
+    src: url("Oswald/Oswald-Regular.ttf");
+}

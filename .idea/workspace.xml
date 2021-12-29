@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4198e19c-c04e-46cc-a5e8-fbca4926c7c6" name="Default Changelist" comment="Домашка на 16.08">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Darkness.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/adv-30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/adv-31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/adv-32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/plan_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/plan_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/purple.png" beforeDir="false" />
+    <list default="true" id="4198e19c-c04e-46cc-a5e8-fbca4926c7c6" name="Default Changelist" comment="а">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +16,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="cursov" />
+        <entry key="$PROJECT_DIR$" value="class_9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,6 +94,7 @@
       <workItem from="1640268443497" duration="90000" />
       <workItem from="1640813051568" duration="283000" />
       <workItem from="1640813388073" duration="1065000" />
+      <workItem from="1640817773139" duration="504000" />
     </task>
     <task id="LOCAL-00001" summary="Домашка на 12.07">
       <created>1626061307174</created>
