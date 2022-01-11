@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+}
+.wrapper {
+    display: flex;
+    min-height: 100%;
+    overflow: hidden;
+    flex-direction: column;
+}
+.container {
+    /*position: relative;*/
+    max-width: 1200px;
+    margin: 0 auto;
+    background-size: 100%;
+    background: url(https://classpic.ru/wp-content/uploads/2017/01/25389/Devushka-bosikom-na-velosipede.jpg) no-repeat;
+    display: flex;
+}
+/*Для картинки
+.logo img {
+    border-radius: 50%;
+    overflow: hidden;
+}
+.logo img {
+    max-width: 100%;
+    display: block;
+}*/
+@media (max-width:1200px) {
+    .container {
+        max-width: 970px;
+    }
+}
+@media (max-width:992px) {
+    .container {
+        max-width: 750px;
+    }
+}
+@media (max-width:767px) {
+    .container {
+        max-width: none;
+    }
+}
+.h {
+    font-size: 200%;
+    font-family: 'Light', serif;
+}
+p {
+    margin: 0 15px 0 200px;
+}
+.b {
+    font-weight: bold;
+}
+a {
+    color: black;
+    font-family: 'Regular', serif;
+}
+.brand {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: flex-start;
+
+}
+.small {
+    font-size: 70%;
+}
+
+/*.header {
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 50;
+}*/
+/*.button {
+    padding: 0 10px 0 10px;
+    display: flex;
+    transform: rotate(180deg);
+    height: 720px;
+    width: 60px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+.button:before {
+    content: "";
+    !*position: absolute;*!
+    !*top: 0;
+    left: 0;*!
+    width: 100%;
+    height: 100%;
+}
+.but_menu {
+
+}
+@media (max-width: 767px) {
+    .but {
+        !*display: block;*!
+        width: 20px;
+        height: 30px;
+    }
+    .but span {
+        !*position: absolute;*!
+        background-color: white;
+        !*left: 0;*!
+        height: 100%;
+        width: 2px;
+        top: 9px;
+    }
+    .but:before,
+    .but:after {
+        content: '';
+        background-color: white;
+        position: absolute;
+        height: 100%;
+        width: 2px;
+        left: 0;
+    }
+    .but:before {
+        top: 0;
+    }
+    .but:after {
+        !*bottom: 0;*!
+    }
+}
+
+.but_list {
+    display: flex;
+}
+.but_list li{
+    list-style: none;
+    margin: 5px;
+}
+.but_link {
+    color: white;
+    transform: rotate(360deg);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Bold', serif;
+    writing-mode: vertical-lr;
+}
+.but {
+
+}*/
+.button {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 720px;
+    width: 40px;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    color: white;
+    text-decoration: none;
+    font-family: 'Bold', serif;
+    background-color: black;
+}
+.but_link {
+    height: 100%;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.aboutus {
+    margin: 50px 0 0 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h4 {
+    font-family: 'Lobster', cursive;
+}
+/*
+.x21D2:after {
+    content: '\#8658;';
+}
+*/

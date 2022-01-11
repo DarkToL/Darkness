@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4198e19c-c04e-46cc-a5e8-fbca4926c7c6" name="Default Changelist" comment="а">
+    <list default="true" id="4198e19c-c04e-46cc-a5e8-fbca4926c7c6" name="Default Changelist" comment="text">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kursovaya.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kursovaya.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osnova.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.css" beforeDir="false" afterPath="$PROJECT_DIR$/text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zan_12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Пример.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +34,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1v2EWa85oWWQ5O0HlxPHdFxDn11" />
   <component name="ProjectLevelVcsManager">
@@ -94,7 +107,32 @@
       <workItem from="1640268443497" duration="90000" />
       <workItem from="1640813051568" duration="283000" />
       <workItem from="1640813388073" duration="1065000" />
-      <workItem from="1640817773139" duration="504000" />
+      <workItem from="1640817773139" duration="1782000" />
+      <workItem from="1640819578403" duration="1655000" />
+      <workItem from="1640840296687" duration="2088000" />
+      <workItem from="1640842413045" duration="1800000" />
+      <workItem from="1640845038204" duration="1781000" />
+      <workItem from="1640846843731" duration="1782000" />
+      <workItem from="1640848652866" duration="3532000" />
+      <workItem from="1640852225262" duration="1787000" />
+      <workItem from="1640854035764" duration="1450000" />
+      <workItem from="1640856088553" duration="1381000" />
+      <workItem from="1640859568700" duration="1780000" />
+      <workItem from="1640861379900" duration="1870000" />
+      <workItem from="1641843306948" duration="1781000" />
+      <workItem from="1641845110950" duration="2101000" />
+      <workItem from="1641847239873" duration="2613000" />
+      <workItem from="1641849880702" duration="1784000" />
+      <workItem from="1641851688219" duration="1690000" />
+      <workItem from="1641853538501" duration="1895000" />
+      <workItem from="1641855460692" duration="1421000" />
+      <workItem from="1641876071842" duration="1456000" />
+      <workItem from="1641878484318" duration="1785000" />
+      <workItem from="1641880292363" duration="1383000" />
+      <workItem from="1641882099593" duration="1783000" />
+      <workItem from="1641883907444" duration="1784000" />
+      <workItem from="1641885722312" duration="1784000" />
+      <workItem from="1641887529116" duration="1603000" />
     </task>
     <task id="LOCAL-00001" summary="Домашка на 12.07">
       <created>1626061307174</created>
@@ -411,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629102252317</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="text">
+      <created>1640818302300</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1640818302300</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,6 +497,7 @@
     <MESSAGE value="Домашка на 02.08" />
     <MESSAGE value="Домашка на 05.08" />
     <MESSAGE value="Домашка на 16.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашка на 16.08" />
+    <MESSAGE value="text" />
+    <option name="LAST_COMMIT_MESSAGE" value="text" />
   </component>
 </project>
