@@ -43,7 +43,7 @@
     font-size: 200%;
     font-family: 'Light', serif;
 }
-p {
+.p {
     margin: 0 15px 0 200px;
 }
 .b {
@@ -167,12 +167,36 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    max-width: 1200px;
 }
-h4 {
+.h4 {
     font-family: 'Lobster', cursive;
 }
-/*
-.x21D2:after {
-    content: '\#8658;';
+.tblocks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
-*/
+@media (max-width:1200px) {
+    .aboutus {
+        max-width: 970px;
+    }
+}
+@media (max-width:992px) {
+    .aboutus {
+        max-width: 750px;
+    }
+}
+@media (max-width:767px) {
+    .aboutus {
+        max-width: none;
+    }
+}
+.block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /*align-items: center;*/
+}
+
