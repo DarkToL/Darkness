@@ -3,9 +3,10 @@
 }
 .wrapper {
     display: flex;
-    min-height: 100%;
+    min-height: 90%;
     overflow: hidden;
     flex-direction: column;
+    justify-content: space-around;
 }
 .container {
     /*position: relative;*/
@@ -162,7 +163,7 @@ a {
     text-align: center;
 }
 .aboutus {
-    margin: 50px 0 0 50px;
+    margin: 50px auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
