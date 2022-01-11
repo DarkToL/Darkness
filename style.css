@@ -164,7 +164,6 @@ a {
 }
 .aboutus {
     margin: 50px auto;
-    padding: 0 5px 0 5px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -196,6 +195,7 @@ a {
     }
 }
 .block {
+    padding: 0 5px 0 5px;
     display: flex;
     flex-direction: column;
     justify-content: center;
